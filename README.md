@@ -23,7 +23,7 @@ Resopistório elaborado com algumas atividades da disciplina de matemática comp
 
 <a href="">Fatoração LU</a>
 
-<a href=""></a>
+<a href="">Fatoração LU com pivotamento parcial</a>
 
 <a href=""></a>
 
