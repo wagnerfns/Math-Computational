@@ -25,30 +25,13 @@ Resopistório elaborado com algumas atividades da disciplina de matemática comp
 
 <a href="https://github.com/wagnerfns/Math-Computational/blob/master/FatoracaoLU_pivotamento_parcial.py">Fatoração LU com pivotamento parcial</a>
 
-<a href="">Metodo de Gauss Jacobi</a>
+<a href="https://github.com/wagnerfns/Math-Computational/blob/master/metodo_GaussJacobi.py">Metodo de Gauss Jacobi</a>
 
-<a href="">Metodo de Gauss Seidel</a>
+<a href="https://github.com/wagnerfns/Math-Computational/blob/master/metodo_GaussSeidel.py">Metodo de Gauss Seidel</a>
 
-<a href="">Interpretação para o método Gauss Jacobi</a>
+<a href="https://github.com/wagnerfns/Math-Computational/blob/master/interpretacao_gaussJacobi.py">Interpretação para o método Gauss Jacobi</a>
 
-<a href="">Interpretação para o método Gaus Seidel</a>
+<a href="https://github.com/wagnerfns/Math-Computational/blob/master/interpretacao_gaussSeidel.py">Interpretação para o método Gaus Seidel</a>
 
-<a href="">Interpretação para o método Divergente</a>
+<a href="https://github.com/wagnerfns/Math-Computational/blob/master/interpretacao_metodoDivergente.py">Interpretação para o método Divergente</a>
 
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
-
-<a href=""></a>
